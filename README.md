@@ -31,7 +31,6 @@ To get a local copy up and running follow these simple steps:
    git clone https://github.com/your-username/kingsukh-guesthouse-website.git
 2. Open the project folder in your code editor.
 
-3. Explore the code and make any modifications or improvements you desire.
 
 ## Contributing 🤝
 
