@@ -1,6 +1,6 @@
 # Kingsukh Guest House Website 🏡
 
-Welcome to the Kingsukh Guest House website repository! This website showcases the amenities, services, and rooms offered by Kingsukh Guest House, located in Manpur, West Bengal. It provides visitors with an immersive experience and essential information to plan their stay.
+This website showcases the amenities, services, and rooms offered by Kingsukh Guest House. It provides visitors with an immersive experience and essential information to plan their stay.
 
 ## Features 🌟
 
