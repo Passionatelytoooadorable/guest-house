@@ -19,6 +19,8 @@ This website showcases the amenities, services, and rooms offered by Kingsukh Gu
 - HTML
 - CSS
 - JavaScript
+- Node.js (for user login, booking and payment confirmations)
+- MySQL (to check availability of rooms) 
 - [Remix Icon](https://remixicon.com/) for icons
 - [ScrollReveal](https://scrollrevealjs.org/) for animations
 
